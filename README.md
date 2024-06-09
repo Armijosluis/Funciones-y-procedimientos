@@ -7,7 +7,7 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 Cada ejercicio se encuentra en un archivo separado. A continuación se detalla la ubicación de cada uno de los ejercicios:
 
 1. **Suma de los dígitos de un número**
-   ejercicios/suma_digitos.cpp
+  [ ejercicios/suma_digitos.cpp](https://github.com/Armijosluis/Funciones-y-procedimientos/commit/f8d5c56825441ee85e865aaa28bb71ff24ff2ea2#diff-1085eb6dd310b065401dd1f8e3c98c60be8f37872f0e74bb8dc5bd93367bf7f3)
 2. **Inverso de un número**
    - `ejercicios/inverso_numero.cpp`
 3. **Potencia mediante sumas sucesivas**
