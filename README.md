@@ -7,8 +7,7 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 Cada ejercicio se encuentra en un archivo separado. A continuación se detalla la ubicación de cada uno de los ejercicios:
 
 1. **Suma de los dígitos de un número**
-  -[ ejercicios/suma_digitos.cpp](https://github.com/Armijosluis/Funciones-y-procedimientos/commit/f8d5c56825441ee85e865aaa28bb71ff24ff2ea2#diff-1085eb6dd310b065401dd1f8e3c98c60be8f37872f0e74bb8dc5bd93367bf7f3)
-   
+   - [`ejercicios/suma_digitos.cpp`](https://github.com/Armijosluis/Funciones-y-procedimientos/commit/f8d5c56825441ee85e865aaa28bb71ff24ff2ea2#diff-1085eb6dd310b065401dd1f8e3c98c60be8f37872f0e74bb8dc5bd93367bf7f3)
 2. **Inverso de un número**
    - [`ejercicios/inverso_numero.cpp`](https://github.com/Armijosluis/Funciones-y-procedimientos/commit/f8d5c56825441ee85e865aaa28bb71ff24ff2ea2#diff-0d7e63aefa051f32fe23c287a6e30abca938ceda1cebe503726a49e99461696e)
 3. **Potencia mediante sumas sucesivas**
@@ -36,7 +35,7 @@ Cada ejercicio se encuentra en un archivo separado. A continuación se detalla l
 14. **Suma de los cuadrados de los primeros n números**
     - [`ejercicios/suma_cuadrados.cpp`](https://github.com/Armijosluis/Funciones-y-procedimientos/commit/f8d5c56825441ee85e865aaa28bb71ff24ff2ea2#diff-8987decbba1b953012b9758366db79d11bed4337b0b0f796b95e0d718dd064eb)
 15. **Suma de los cubos de los primeros n números**
-    -[- `ejercicios/suma_cubos.cpp`](https://github.com/Armijosluis/Funciones-y-procedimientos/commit/f8d5c56825441ee85e865aaa28bb71ff24ff2ea2#diff-6c3fb603cfb1cf742879ab809901b0544b1a69a7812f993b1509b732fd0275e9)
+    - [`ejercicios/suma_cubos.cpp`](https://github.com/Armijosluis/Funciones-y-procedimientos/commit/f8d5c56825441ee85e865aaa28bb71ff24ff2ea2#diff-6c3fb603cfb1cf742879ab809901b0544b1a69a7812f993b1509b732fd0275e9)
 16. **Suma de una serie de números fraccionarios**
     - [`ejercicios/suma_fraccionarios.cpp`](https://github.com/Armijosluis/Funciones-y-procedimientos/commit/f8d5c56825441ee85e865aaa28bb71ff24ff2ea2#diff-fa8555aff0f3750435c85445685271aa11a94b4b468f8a1346c9d160ea5f230d)
 17. **Producto de una serie de números fraccionarios**
